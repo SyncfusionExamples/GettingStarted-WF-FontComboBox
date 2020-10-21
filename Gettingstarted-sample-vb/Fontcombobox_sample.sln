@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Fontcombobox_sample", "Fontcombobox_sample\Fontcombobox_sample.vbproj", "{FB3D6EAF-8A01-4975-A427-7AC97441F8FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB3D6EAF-8A01-4975-A427-7AC97441F8FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB3D6EAF-8A01-4975-A427-7AC97441F8FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB3D6EAF-8A01-4975-A427-7AC97441F8FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB3D6EAF-8A01-4975-A427-7AC97441F8FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {726C93BC-C59E-4785-BE3F-2D83BA5F09D4}
+	EndGlobalSection
+EndGlobal
