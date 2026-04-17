@@ -1,13 +1,45 @@
-# Getting Started – WinForms FontComboBox
+# Getting Started with WinForms FontComboBox
 
-## Overview
-The Syncfusion FontComboBox is a specialized ComboBox control for WinForms that automatically lists the fonts installed on the system and displays each item using its own font style. This getting started sample shows how to create the control in code, place it on a Windows Form, and configure common settings such as size, location, theme, auto complete, and default selection.
+This repository contains a **getting started sample for the Syncfusion WinForms FontComboBox control**. The sample demonstrates how to add the FontComboBox to a WinForms application and use it to display and select fonts.
 
-## Key features
-- **Automatic font loading**: The control displays installed system fonts without requiring manual population.
-- **Visual preview**: Each font name is rendered in its corresponding font for easy selection.
-- **Code-based initialization**: The sample creates the `FontComboBox` programmatically, sets `UseAutoComplete` to `true`, applies the `Office2016Colorful` visual style, selects `Arial`, and adds the control to the form.
-- **Flexible setup**: The control can be adjusted easily for different form layouts.
+---
+
+## 🔍 Overview
+
+The **Syncfusion WinForms FontComboBox** is a specialized dropdown control that lists available system fonts and allows users to select a font easily. Each item can display a live preview of the font, making it ideal for text‑editing and formatting scenarios.
+
+This sample focuses on the **basic setup and usage** of the FontComboBox control.
+
+---
+
+## What This Sample Demonstrates
+
+- Adding the FontComboBox control to a WinForms application
+- Displaying system fonts in a dropdown list
+- Selecting a font from the FontComboBox
+- Applying the selected font to UI elements
+- Understanding the default behavior of the control
+
+---
+
+## Key Features of FontComboBox
+
+- Displays installed system fonts
+- Optional font preview support
+- Easy integration with WinForms controls
+- Supports common font selection scenarios
+- Provides a user‑friendly font picker UI
+
+---
+
+## Basic Usage Scenario
+
+In a typical application, FontComboBox is used to:
+- Allow users to select a font family
+- Apply the selected font to text editors, labels, or rich text controls
+- Build word‑processor‑like or formatting‑rich interfaces
+
+---
 
 ## Documentation
 Getting started with FontComboBox: https://help.syncfusion.com/windowsforms/fontcombobox/getting-started
