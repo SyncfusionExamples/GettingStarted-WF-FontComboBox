@@ -1,11 +1,22 @@
 # Getting Started – WinForms FontComboBox
-## Overview 
-The Syncfusion FontComboBox is a specialized ComboBox for WinForms that automatically lists all fonts installed on the system. Each item is rendered in its own font, so users get a live preview when selecting fonts for text editors, design tools, or document formatting interfaces. This control is ideal for applications that require an intuitive and visually rich font selection experience.
+## Overview
+The Syncfusion FontComboBox is a specialized ComboBox control for WinForms that automatically lists all fonts installed on the system. Each font name is displayed using its own typeface, allowing users to preview fonts in real time. This makes the FontComboBox especially useful for text editors, design tools, and document‑formatting applications where font selection plays a key role.
+By providing a visual preview directly within the dropdown, the control enhances usability and improves the overall font selection experience.
 
-## Key features
-- **Automatic font loading**: Populates with installed system fonts on initialization.
-- **Visual preview**: Each font name is rendered using that font.
-- **Manual refresh**: Call Fill() method to refresh the list after fonts are added/removed at runtime.
+## Key Features
+- Automatic font loading
+  Automatically populates the control with all system‑installed fonts during initialization.
+- Live visual preview
+  Each font name is rendered in its corresponding font, enabling intuitive font selection.
+- Manual refresh support
+  Use the Fill() method to refresh the font list when fonts are added or removed at runtime.
+
+## Use Cases
+Text and document editors
+Design and layout tools
+Rich text formatting interfaces
+Font‑selection dialogs in WinForms applications
 
 ## Documentation
-Getting started with FontComboBox: https://help.syncfusion.com/windowsforms/fontcombobox/getting-started
+For step‑by‑step instructions and additional configuration options, refer to the official documentation:
+🔗 https://help.syncfusion.com/windowsforms/fontcombobox/getting-started
